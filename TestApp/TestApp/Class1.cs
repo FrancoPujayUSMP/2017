@@ -8,5 +8,6 @@ namespace TestApp
 {
     class Class1
     {
+        public string name { get;set;}
     }
 }
